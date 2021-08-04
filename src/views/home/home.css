@@ -1,0 +1,23 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: relative;
+    top: 40px;
+}
+
+.content-item{
+    background-color: gray;
+}
+
+.content-item header {
+    height: 5%;
+}
+
+body{
+    font-family: Cambria;
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+}
